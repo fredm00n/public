@@ -1,7 +1,7 @@
 # public
 A simple repo to host public files.
 
-## Method with raw GitHub
+## Method with raw
 
 https://raw.githubusercontent.com/fredm00n/public/master/YOUR_FILE
 
